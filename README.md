@@ -40,3 +40,7 @@ This status is for **macOS Big Sur 11.7.10** with **OpenCore 1.0.5** on **Intel 
 * **Fingerprint Reader** - Unsupported
 * **WWAN/4G Card** - Unsupported
 
+## ▶️ To Do List
+
+* **Add support for MacOS Catalina,Monterey,Ventura,Sonoma**
+
