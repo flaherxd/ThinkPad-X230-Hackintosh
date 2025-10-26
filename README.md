@@ -4,7 +4,7 @@
 
 A complete guide to installing and running macOS Big Sur 11.7.10 on the Lenovo ThinkPad X230 with Intel Core i5-3320M. This repository provides a stable OpenCore configuration specifically tested for this setup.
 
-**SPECIAL NOTE: Audio and Sleep are currently NOT working**
+**SPECIAL NOTE: Sleep is currently NOT working**
 
 **CURRENT STATUS: WIP**
 
@@ -29,12 +29,12 @@ This status is for **macOS Big Sur 11.7.10** with **OpenCore 1.0.5** on **Intel 
 
 ### ❓ Not tested
 
+* **Audio** (needs testing, i have unplugged speakers)
 * **DisplayPort Video Output**
 
 ### ❌ Not Working / Issues
 
 * **Trackpoint** - buggy when scrolling
-* **Audio** - No sound output/input
 * **Sleep/Wake** - Dosen't go to sleep
 * **VGA Port** - Unsupported
 * **Fingerprint Reader** - Unsupported
