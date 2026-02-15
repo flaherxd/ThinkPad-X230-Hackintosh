@@ -26,11 +26,11 @@ This status is for **macOS Big Sur 11.7.10** with **OpenCore 1.0.5** on **Intel 
 * **Battery Status**
 * **SD Card Reader**
 * **iMessage, FaceTime, App Store** (with valid SMBIOS)
+* **MiniDP Video Output**
 
 ### ❓ Not tested
 
 * **Audio** (needs testing, i have unplugged speakers)
-* **DisplayPort Video Output**
 
 ### ❌ Not Working / Issues
 
